@@ -19,3 +19,9 @@ class HelloWorld
         System.out.println("Hello, World"); 
     } 
 } 
+public void Justprint(){
+	System.out.println("Wassaaaaaaap\n");
+	
+	
+	
+}
